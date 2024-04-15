@@ -1,5 +1,5 @@
 # Neural-Network-Deep-Learning_Project
-## OBJDetection
+## Project Name: OBJDetection
 ## Student Details
 ## Student Id: 700746555
 ## Name: Jethin Sai Chlukuri
